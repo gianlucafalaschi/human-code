@@ -34,8 +34,7 @@ Che emozione, ogni volta
 
 8 Confronto per lo scambio
 	-passo la mia lista scambiabili all'amico
-	-passo il mio album all'amico
-	-prendo l'album dell 'amico
+	-prendo l'album 
 		- SE è chiuso apro l'album dell'amico		
 	-prendo lista scambiabili dell'amico
 		-prendo la figurina in cima
